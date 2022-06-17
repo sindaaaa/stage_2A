@@ -1,0 +1,13 @@
+com.amazonaws.demo.androidpubsubwebsocket:layout/activity_main = 0x7f030000
+com.amazonaws.demo.androidpubsubwebsocket:id/txtTopic = 0x7f020009
+com.amazonaws.demo.androidpubsubwebsocket:id/txtMessage = 0x7f020007
+com.amazonaws.demo.androidpubsubwebsocket:string/app_name = 0x7f040000
+com.amazonaws.demo.androidpubsubwebsocket:id/tvStatus = 0x7f020006
+com.amazonaws.demo.androidpubsubwebsocket:id/btnPublish = 0x7f020002
+com.amazonaws.demo.androidpubsubwebsocket:id/tvLastMessage = 0x7f020005
+com.amazonaws.demo.androidpubsubwebsocket:id/tvClientId = 0x7f020004
+com.amazonaws.demo.androidpubsubwebsocket:id/txtSubscribe = 0x7f020008
+com.amazonaws.demo.androidpubsubwebsocket:id/btnSubscribe = 0x7f020003
+com.amazonaws.demo.androidpubsubwebsocket:drawable/ic_launcher = 0x7f010000
+com.amazonaws.demo.androidpubsubwebsocket:id/btnConnect = 0x7f020000
+com.amazonaws.demo.androidpubsubwebsocket:id/btnDisconnect = 0x7f020001

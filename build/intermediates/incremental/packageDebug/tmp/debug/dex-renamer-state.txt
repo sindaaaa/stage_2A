@@ -1,0 +1,4 @@
+#Wed Jun 15 16:42:50 CEST 2022
+base.0=/home/sinda/Bureau/aws-sdk-android-samples/AndroidPubSubWebSocket/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
